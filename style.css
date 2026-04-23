@@ -1,0 +1,45 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+}
+
+main {
+    background-color: lightcoral;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+button img {
+    width: 60px;
+    height: 60px;
+    display: block;
+    margin: auto;
+}
+
+button {
+    background-color: lightskyblue;
+    padding: 12px;
+    margin: 10px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    width: 80%;
+}
+
+button:hover {
+    background-color: blueviolet;
+    color: white;
+}
+
+.result {
+    margin-top: 20px;
+    font-weight: bold;
+}
