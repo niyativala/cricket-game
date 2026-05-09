@@ -25,11 +25,11 @@ In this game, the user plays against the computer by choosing:
 
 ---
 
-## 📂 Project Files
+## 📂 Project Structure
 
-* `index.html` → Game UI structure 
-* `style.css` → Styling and layout 
-* `script.js` → Game logic and score system 
+index.html → Game UI structure  
+style.css → Styling and layout  
+script.js → Game logic and score system  
 
 ---
 
@@ -56,24 +56,32 @@ In this game, the user plays against the computer by choosing:
 
 ## 📊 Game Logic (Simple)
 
-* Bat beats Ball
-* Ball beats Stump
-* Stump beats Bat
+* Bat beats Ball  
+* Ball beats Stump  
+* Stump beats Bat  
+* Same choices result in a Tie 
 
 ---
 
 ## 📌 Future Improvements
 
-* Add animations 🎨
-* Add sound effects 🔊
-* Store score using Local Storage
-* Improve UI design
+- 🔊 Add sound effects  
+- 🎨 Add animations and transitions  
+- 💾 Store scores using Local Storage  
+- 🌙 Add dark mode  
+- 📱 Improve responsive design  
 
 ---
 
 ## 🙋‍♀️ Author
 
 **Niyati Vala**
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
 
 ---
 
