@@ -74,7 +74,6 @@ In this game, the user plays against the computer by choosing:
 ## 🙋‍♀️ Author
 
 **Niyati Vala**
-MERN Stack Developer (Fresher)
 
 ---
 
